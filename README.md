@@ -1,5 +1,7 @@
 # machine_learning_project
 # this is my first machine learning project.
+# practice project
+
 
 # Software and account requirement
 1. [Github Account](https://github.com)
@@ -7,3 +9,4 @@
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
+
